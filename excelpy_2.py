@@ -1,6 +1,7 @@
 import openpyexcel
 from openpyxl.utils import get_column_letter, column_index_from_string
 
+##Practise scripts for working withXL : Simon Nov 2020
 
 #open workbook as object
 wb = openpyexcel.load_workbook('c:\\python projects\\boring_files\\example.xlsx')
